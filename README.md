@@ -12,3 +12,6 @@ The live page for this project can be found [here](https://vghsieh.github.io/eye
 
 Future goals include adding more features to make the eyes animation appear on a monster-like figure.
 
+## License Information
+
+MIT licensed
