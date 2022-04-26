@@ -6,7 +6,7 @@ This exercise has two eyes on the page. When the mouse cursor moves around the w
 
 ## Usage
 
-The live page for this project can be found [here](https://vghsieh.github.io/eyes/). Simply move the mouse cursor around the page for the eyes to follow the movement. 
+The live page for this project can be found [here](https://vghsieh.github.io/Eye-Exercise/). Simply move the mouse cursor around the page for the eyes to follow the movement. 
 
 ## Roadmap
 
